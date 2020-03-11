@@ -1,0 +1,42 @@
+body{
+    font-family: 'Tajawal', sans-serif;
+    background-color: lavenderblush;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+   
+}
+
+.sTable{
+    width: 380px;
+    margin: 0 auto;
+    border: 50px auto ;
+    text-align: center;
+}
+
+table, td, th{
+    border: 2px solid rgb(91, 165, 143);
+    border-collapse: collapse;
+}
+
+td,th{
+    padding-top: 15px;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+hr{
+    color: rgba(17, 0, 255, 0.842);
+}
+
+h2{
+    color: rgb(91, 165, 143);
+    font-family: 'Kaushan Script', cursive;
+}
